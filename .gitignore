@@ -8,3 +8,6 @@ __pycache__
 
 # Database
 predictive_ai.db
+
+# Logs
+lightning_logs/
