@@ -2,3 +2,9 @@
 .venv
 *.egg-info
 __pycache__
+
+# Datasets
+.datasets/
+
+# Database
+predictive_ai.db
